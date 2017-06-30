@@ -21,3 +21,6 @@ Sistema automatizado de acceso a un comedor del Instituto Mexicano del Seguro So
 <img src="https://68.media.tumblr.com/b5d003bbdc5970ef5223d0fb48badc85/tumblr_osdi1aNOiz1t14fulo4_1280.png" width="800px" height="auto">
 <br/>
 <br/>
+<img src="https://68.media.tumblr.com/7cb37324efaf97f542b08357755b199b/tumblr_osdi1aNOiz1t14fulo10_r1_1280.png" width="800px" height="auto">
+<br/>
+<br/>
